@@ -203,7 +203,7 @@ export default {
   padding-top: 150px;
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
-  height: 120vh;
+  height: 200vh;
 }
 .videobox {
   width: 920px;
